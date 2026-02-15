@@ -12,7 +12,6 @@ Why Kubernetes
 
 Kubernetes is an open-source system for automating deployment, scaling, and management of containerised applications. It was originally designed by Google and is currently maintained by the Cloud Native Computing Foundation.
 
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2020/08/trends.png?w=1024" target="_blank">
 
@@ -24,7 +23,6 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 
 </a>
 </figure>
-
 
 [Source](https://trends.google.com/trends/explore?date=today%205-y&q=Kubernetes#TIMESERIES)
 

@@ -27,15 +27,15 @@ In Vedic astrology: **Shasta** means six, and **Graha Kutami** refers to a co
 **Personal Challenges**:   
 Increased stress and confusion are likely during this period.  
 Decision-making may become difficult due to conflicting energies.  
-  
+
 **Health Concerns**:  
 Stress-related health issues such as headaches or joint pain may arise.  
 Individuals with chronic conditions should take extra precautions.  
-  
+
 **Financial Effects**:  
 Financial instability is possible; some may experience losses or unexpected gains.  
 Investments should be approached cautiously.  
-  
+
 **Global Events**:  
 Potential for economic changes or political instability.  
 Natural calamities or significant global shifts may occur.

@@ -31,7 +31,6 @@ By 5 PM, we arrived at Shirdi, swiftly prepared ourselves, and entered the sacre
 
 Our first day was a medley of spiritual encounters, historic sites, and shared moments. The serenity of Nashik and the divine presence of Shirdi left an indelible mark on our hearts, promising more wonderful experiences to come.
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/1-2.jpeg?w=750" target="_blank">
 
@@ -44,7 +43,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/2-2.jpeg?w=750" target="_blank">
 
@@ -57,7 +55,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/3-2.jpeg?w=568" target="_blank">
 
@@ -70,7 +67,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/4-2.jpeg?w=750" target="_blank">
 
@@ -83,7 +79,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/5-3.jpeg?w=750" target="_blank">
 
@@ -96,7 +91,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/7-2.jpeg?w=750" target="_blank">
 
@@ -109,7 +103,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/8-2.jpeg?w=750" target="_blank">
 
@@ -122,7 +115,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/9-2.jpeg?w=750" target="_blank">
 
@@ -135,7 +127,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/10-2.jpeg?w=375" target="_blank">
 
@@ -148,7 +139,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/11-2.jpeg?w=750" target="_blank">
 
@@ -161,7 +151,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/12-2.jpeg?w=750" target="_blank">
 
@@ -174,7 +163,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/13-2.jpeg?w=750" target="_blank">
 
@@ -187,7 +175,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/15-2.jpeg?w=750" target="_blank">
 
@@ -199,7 +186,6 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 
 </a>
 </figure>
-
 
 ## Day 2: Dawn to Dusk – Bhima Shankar and Sai Mandhir Blessings
 
@@ -214,13 +200,12 @@ A swift darshan followed. And then, a moment of deep devotion – we secured an 
 Our Bhima Shankar journey concluded by 11 AM, retracing our path to Shirdi. At 4 PM, we were back, satisfying our hunger along the Nashik highway.
 
 As 5:30 PM approached, our next stop was khandoba Mandhir. With perfect timing, we embraced the evening Aarthi and, at Sai Mandhir, witnessed the Aarthi through the Mukha Darshan window. Another day, another cascade of blessings.  
-  
+
 Om Namah Shivaya  
 Jai Sai Ram ...
 
 Swipe down for a peek into the divine moments captured by our lens.
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806070724.jpg?w=750" target="_blank">
 
@@ -233,7 +218,6 @@ Swipe down for a peek into the divine moments captured by our lens.
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071109.jpg?w=750" target="_blank">
 
@@ -246,7 +230,6 @@ Swipe down for a peek into the divine moments captured by our lens.
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071724.jpg?w=750" target="_blank">
 
@@ -259,7 +242,6 @@ Swipe down for a peek into the divine moments captured by our lens.
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806104309.jpg?w=750" target="_blank">
 
@@ -272,7 +254,6 @@ Swipe down for a peek into the divine moments captured by our lens.
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806110455.jpg?w=750" target="_blank">
 
@@ -285,7 +266,6 @@ Swipe down for a peek into the divine moments captured by our lens.
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806101420.jpg?w=750" target="_blank">
 
@@ -297,7 +277,6 @@ Swipe down for a peek into the divine moments captured by our lens.
 
 </a>
 </figure>
-
 
 ## Day 3: Embracing Divine Connections and Cultural Charms
 
@@ -313,7 +292,6 @@ A local gem, Jagadhamna Temple, beckoned, offering a serene interlude in the vil
 
 With time on our hands, we delved into Paithani Handloom sarees, indulging in some shopping. Our driver then accompanied us to the train station, marking the conclusion of our unforgettable journey.
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807100312.jpg?w=750" target="_blank">
 
@@ -326,7 +304,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807131631.jpg?w=750" target="_blank">
 
@@ -339,7 +316,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144149.jpg?w=750" target="_blank">
 
@@ -352,7 +328,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144354.jpg?w=750" target="_blank">
 
@@ -365,7 +340,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144640.jpg?w=750" target="_blank">
 
@@ -378,7 +352,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144419.jpg?w=750" target="_blank">
 
@@ -391,7 +364,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144730.jpg?w=750" target="_blank">
 
@@ -404,7 +376,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162424.jpg?w=750" target="_blank">
 
@@ -417,7 +388,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144508.jpg?w=750" target="_blank">
 
@@ -430,7 +400,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162412.jpg?w=750" target="_blank">
 
@@ -443,7 +412,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162016.jpg?w=750" target="_blank">
 
@@ -456,7 +424,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807161825.jpg?w=750" target="_blank">
 
@@ -469,7 +436,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154940.jpg?w=750" target="_blank">
 
@@ -482,7 +448,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154951.jpg?w=750" target="_blank">
 
@@ -495,7 +460,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154846.jpg?w=750" target="_blank">
 
@@ -508,7 +472,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807152436.jpg?w=750" target="_blank">
 
@@ -521,7 +484,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145547.jpg?w=750" target="_blank">
 
@@ -534,7 +496,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145603.jpg?w=750" target="_blank">
 
@@ -547,7 +508,6 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807184318.jpg?w=750" target="_blank">
 
@@ -560,14 +520,12 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 </a>
 </figure>
 
-
 In a Nutshell: An Odyssey of Spirituality and Discovery
 
 From the serene grace of Nashik's temples on Day 1, through the spiritual reverence of Bhima Shankar and Shirdi's Sai Mandir on Day 2, to the cultural immersion at Grishneshwar and beyond on Day 3 – our voyage was an exquisite blend of devotion, exploration, and cherished moments.
 
 Signing off ....
 
-* 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/my-pic.jpeg?w=750" target="_blank">
 

@@ -139,7 +139,6 @@ Wrapped up by 6:15 PM at Trichy Airport. Took a pic with Raja — my trusted dri
 
 Swipe through some captured memories from this trip
 
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/screenshot-2025-05-04-at-7.28.17u202fpm.png?w=600" target="_blank">
 
@@ -151,7 +150,6 @@ Swipe through some captured memories from this trip
 
 </a>
 </figure>
-
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200558-5.jpg?w=600" target="_blank">
@@ -165,7 +163,6 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200433-4.jpg?w=600" target="_blank">
 
@@ -177,7 +174,6 @@ Swipe through some captured memories from this trip
 
 </a>
 </figure>
-
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200515-4.jpg?w=600" target="_blank">
@@ -191,7 +187,6 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_202256-3.jpg?w=600" target="_blank">
 
@@ -203,7 +198,6 @@ Swipe through some captured memories from this trip
 
 </a>
 </figure>
-
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_201808-3.jpg?w=600" target="_blank">
@@ -217,7 +211,6 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_203423-3.jpg?w=600" target="_blank">
 
@@ -229,7 +222,6 @@ Swipe through some captured memories from this trip
 
 </a>
 </figure>
-
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_204511-3.jpg?w=600" target="_blank">
@@ -243,7 +235,6 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_204311-3.jpg?w=600" target="_blank">
 
@@ -255,7 +246,6 @@ Swipe through some captured memories from this trip
 
 </a>
 </figure>
-
 
 ---
 

@@ -17,7 +17,6 @@ The Master is another node with Kubernetes installed in it, and is configured as
 A cluster is a set of nodes grouped together. This way even if one Node fails you have  
 your application still accessible from the other nodes.
 
-[
 <figure>
 <a href="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg" target="_blank">
 

@@ -111,6 +111,10 @@ menu:
       name: "📖 Life Learnings"
       url: /categories/life-learnings/
       weight: 40
+    - identifier: shorts
+      name: "💡 Shorts"
+      url: /categories/shorts/
+      weight: 45
     - identifier: search
       name: "🔍 Search"
       url: /search/
