@@ -12,7 +12,7 @@ tags:
   - soa
   - microservices
 cover:
-  image: "/images/covers/service-oriented-architecture-cover.svg"
+  image: "images/covers/service-oriented-architecture-cover.svg"
   alt: "Cover image"
   relative: false
 ---

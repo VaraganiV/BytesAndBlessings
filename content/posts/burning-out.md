@@ -12,7 +12,7 @@ tags:
   - wellbeing
   - mindset
 cover:
-  image: "/images/covers/burning-out-cover.svg"
+  image: "images/covers/burning-out-cover.svg"
   alt: "Cover image"
   relative: false
 ---

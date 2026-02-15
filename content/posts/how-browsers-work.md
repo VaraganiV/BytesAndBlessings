@@ -12,7 +12,7 @@ tags:
   - browsers
   - fundamentals
 cover:
-  image: "/images/covers/how-browsers-work-cover.svg"
+  image: "images/covers/how-browsers-work-cover.svg"
   alt: "Cover image"
   relative: false
 ---

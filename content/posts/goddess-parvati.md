@@ -14,7 +14,7 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/covers/goddess-parvati-cover.svg"
+  image: "images/covers/goddess-parvati-cover.svg"
   alt: "Cover image"
   relative: false
 ---

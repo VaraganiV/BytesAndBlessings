@@ -12,7 +12,7 @@ tags:
   - refactoring
   - software-design
 cover:
-  image: "/images/covers/bad-code-smells-cover.svg"
+  image: "images/covers/bad-code-smells-cover.svg"
   alt: "Cover image"
   relative: false
 ---

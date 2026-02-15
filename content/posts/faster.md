@@ -11,7 +11,7 @@ tags:
   - learning
   - productivity
 cover:
-  image: "/images/covers/faster-cover.svg"
+  image: "images/covers/faster-cover.svg"
   alt: "Cover image"
   relative: false
 ---

@@ -14,7 +14,7 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/covers/navigating-the-stars-understanding-shasta-graha-kutami-cover.svg"
+  image: "images/covers/navigating-the-stars-understanding-shasta-graha-kutami-cover.svg"
   alt: "Cover image"
   relative: false
 ---

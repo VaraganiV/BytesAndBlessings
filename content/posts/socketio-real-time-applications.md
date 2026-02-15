@@ -12,7 +12,7 @@ tags:
   - realtime
   - web
 cover:
-  image: "/images/covers/socketio-real-time-applications-cover.svg"
+  image: "images/covers/socketio-real-time-applications-cover.svg"
   alt: "Cover image"
   relative: false
 ---

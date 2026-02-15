@@ -11,7 +11,7 @@ tags:
   - architecture
   - software-design
 cover:
-  image: "/images/covers/software-architecture-what-cover.svg"
+  image: "images/covers/software-architecture-what-cover.svg"
   alt: "Cover image"
   relative: false
 ---

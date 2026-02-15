@@ -12,7 +12,7 @@ tags:
   - rituals
   - ancestors
 cover:
-  image: "/images/covers/mahalaya-paksham-cover.svg"
+  image: "images/covers/mahalaya-paksham-cover.svg"
   alt: "Cover image"
   relative: false
 ---

@@ -12,7 +12,7 @@ tags:
   - devops
   - containers
 cover:
-  image: "/images/covers/kubernetes-learning-path-cover.svg"
+  image: "images/covers/kubernetes-learning-path-cover.svg"
   alt: "Cover image"
   relative: false
 ---

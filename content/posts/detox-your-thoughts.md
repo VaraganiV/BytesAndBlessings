@@ -12,7 +12,7 @@ tags:
   - mental-health
   - wellbeing
 cover:
-  image: "/images/covers/detox-your-thoughts-cover.svg"
+  image: "images/covers/detox-your-thoughts-cover.svg"
   alt: "Cover image"
   relative: false
 ---

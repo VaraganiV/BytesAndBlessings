@@ -12,7 +12,7 @@ tags:
   - breathing
   - wellbeing
 cover:
-  image: "/images/covers/yogic-breathing-cover.svg"
+  image: "images/covers/yogic-breathing-cover.svg"
   alt: "Cover image"
   relative: false
 ---

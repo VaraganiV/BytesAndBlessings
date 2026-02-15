@@ -12,7 +12,7 @@ tags:
   - temples
   - travel
 cover:
-  image: "/images/covers/august-aura-pilgrimage-to-sacred-marvels-cover.svg"
+  image: "images/covers/august-aura-pilgrimage-to-sacred-marvels-cover.svg"
   alt: "Cover image"
   relative: false
 ---

@@ -12,7 +12,7 @@ tags:
   - overthinking
   - mental-health
 cover:
-  image: "/images/covers/overthinking-cover.svg"
+  image: "images/covers/overthinking-cover.svg"
   alt: "Cover image"
   relative: false
 ---

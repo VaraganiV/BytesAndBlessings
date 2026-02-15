@@ -12,7 +12,7 @@ tags:
   - subconscious
   - psychology
 cover:
-  image: "/images/covers/power-of-subconscious-mind-cover.svg"
+  image: "images/covers/power-of-subconscious-mind-cover.svg"
   alt: "Cover image"
   relative: false
 ---

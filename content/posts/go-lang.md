@@ -11,7 +11,7 @@ tags:
   - golang
   - programming-languages
 cover:
-  image: "/images/covers/go-lang-cover.svg"
+  image: "images/covers/go-lang-cover.svg"
   alt: "Cover image"
   relative: false
 ---

@@ -11,7 +11,7 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/covers/junit-testing-and-best-practices-cover.svg"
+  image: "images/covers/junit-testing-and-best-practices-cover.svg"
   alt: "Cover image"
   relative: false
 ---

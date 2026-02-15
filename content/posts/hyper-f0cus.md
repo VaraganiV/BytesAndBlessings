@@ -12,7 +12,7 @@ tags:
   - productivity
   - mindset
 cover:
-  image: "/images/covers/hyper-f0cus-cover.svg"
+  image: "images/covers/hyper-f0cus-cover.svg"
   alt: "Cover image"
   relative: false
 ---

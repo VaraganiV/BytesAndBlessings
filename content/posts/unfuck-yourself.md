@@ -12,7 +12,7 @@ tags:
   - self-talk
   - motivation
 cover:
-  image: "/images/covers/unfuck-yourself-cover.svg"
+  image: "images/covers/unfuck-yourself-cover.svg"
   alt: "Cover image"
   relative: false
 ---

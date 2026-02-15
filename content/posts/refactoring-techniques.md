@@ -12,7 +12,7 @@ tags:
   - clean-code
   - software-design
 cover:
-  image: "/images/covers/refactoring-techniques-cover.svg"
+  image: "images/covers/refactoring-techniques-cover.svg"
   alt: "Cover image"
   relative: false
 ---

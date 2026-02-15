@@ -11,7 +11,7 @@ tags:
   - communication
   - mindset
 cover:
-  image: "/images/covers/win-arguments-cover.svg"
+  image: "images/covers/win-arguments-cover.svg"
   alt: "Cover image"
   relative: false
 ---

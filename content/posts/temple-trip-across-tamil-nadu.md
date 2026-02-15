@@ -14,7 +14,7 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/covers/temple-trip-across-tamil-nadu-cover.svg"
+  image: "images/covers/temple-trip-across-tamil-nadu-cover.svg"
   alt: "Cover image"
   relative: false
 ---

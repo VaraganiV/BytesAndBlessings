@@ -12,7 +12,7 @@ tags:
   - temples
   - travel
 cover:
-  image: "/images/covers/pune-in-march-2025-cover.svg"
+  image: "images/covers/pune-in-march-2025-cover.svg"
   alt: "Cover image"
   relative: false
 ---

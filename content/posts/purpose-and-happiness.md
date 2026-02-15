@@ -12,7 +12,7 @@ tags:
   - purpose
   - philosophy
 cover:
-  image: "/images/covers/purpose-and-happiness-cover.svg"
+  image: "images/covers/purpose-and-happiness-cover.svg"
   alt: "Cover image"
   relative: false
 ---

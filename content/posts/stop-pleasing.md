@@ -12,7 +12,7 @@ tags:
   - self-care
   - mindset
 cover:
-  image: "/images/covers/stop-pleasing-cover.svg"
+  image: "images/covers/stop-pleasing-cover.svg"
   alt: "Cover image"
   relative: false
 ---

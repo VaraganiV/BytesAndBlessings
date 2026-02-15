@@ -11,7 +11,7 @@ tags:
   - mindset
   - mental-strength
 cover:
-  image: "/images/covers/signs-of-strong-mindset-cover.svg"
+  image: "images/covers/signs-of-strong-mindset-cover.svg"
   alt: "Cover image"
   relative: false
 ---

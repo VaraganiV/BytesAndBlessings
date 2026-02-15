@@ -12,7 +12,7 @@ tags:
   - devops
   - replicaset
 cover:
-  image: "/images/covers/kubernetes-learning-path-replicaset-cover.svg"
+  image: "images/covers/kubernetes-learning-path-replicaset-cover.svg"
   alt: "Cover image"
   relative: false
 ---

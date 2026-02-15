@@ -12,7 +12,7 @@ tags:
   - web
   - programming
 cover:
-  image: "/images/covers/javascript-cover.svg"
+  image: "images/covers/javascript-cover.svg"
   alt: "Cover image"
   relative: false
 ---

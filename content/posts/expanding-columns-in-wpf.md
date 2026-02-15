@@ -12,7 +12,7 @@ tags:
   - dotnet
   - ui
 cover:
-  image: "/images/covers/expanding-columns-in-wpf-cover.svg"
+  image: "images/covers/expanding-columns-in-wpf-cover.svg"
   alt: "Cover image"
   relative: false
 ---

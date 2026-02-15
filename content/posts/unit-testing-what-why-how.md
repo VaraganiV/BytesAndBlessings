@@ -12,7 +12,7 @@ tags:
   - unit-testing
   - best-practices
 cover:
-  image: "/images/covers/unit-testing-what-why-how-cover.svg"
+  image: "images/covers/unit-testing-what-why-how-cover.svg"
   alt: "Cover image"
   relative: false
 ---

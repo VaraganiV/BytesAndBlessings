@@ -12,7 +12,7 @@ tags:
   - rituals
   - tarpanam
 cover:
-  image: "/images/covers/tarpanam-introduction-cover.svg"
+  image: "images/covers/tarpanam-introduction-cover.svg"
   alt: "Cover image"
   relative: false
 ---

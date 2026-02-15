@@ -12,7 +12,7 @@ tags:
   - architecture
   - jvm
 cover:
-  image: "/images/covers/java-architecture-cover.svg"
+  image: "images/covers/java-architecture-cover.svg"
   alt: "Cover image"
   relative: false
 ---

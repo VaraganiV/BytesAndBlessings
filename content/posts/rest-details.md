@@ -12,7 +12,7 @@ tags:
   - api
   - web
 cover:
-  image: "/images/covers/rest-details-cover.svg"
+  image: "images/covers/rest-details-cover.svg"
   alt: "Cover image"
   relative: false
 ---

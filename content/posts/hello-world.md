@@ -12,7 +12,7 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/covers/hello-world-cover.svg"
+  image: "images/covers/hello-world-cover.svg"
   alt: "Cover image"
   relative: false
 ---

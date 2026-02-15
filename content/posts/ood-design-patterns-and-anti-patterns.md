@@ -12,7 +12,7 @@ tags:
   - oop
   - software-design
 cover:
-  image: "/images/covers/ood-design-patterns-and-anti-patterns-cover.svg"
+  image: "images/covers/ood-design-patterns-and-anti-patterns-cover.svg"
   alt: "Cover image"
   relative: false
 ---

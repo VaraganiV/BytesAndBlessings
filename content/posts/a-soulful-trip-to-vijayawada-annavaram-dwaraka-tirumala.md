@@ -13,7 +13,7 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/covers/a-soulful-trip-to-vijayawada-annavaram-dwaraka-tirumala-cover.svg"
+  image: "images/covers/a-soulful-trip-to-vijayawada-annavaram-dwaraka-tirumala-cover.svg"
   alt: "Cover image"
   relative: false
 ---

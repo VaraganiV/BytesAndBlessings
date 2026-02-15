@@ -12,7 +12,7 @@ tags:
   - devops
   - architecture
 cover:
-  image: "/images/covers/kubernetes-learning-path-components-cover.svg"
+  image: "images/covers/kubernetes-learning-path-components-cover.svg"
   alt: "Cover image"
   relative: false
 ---

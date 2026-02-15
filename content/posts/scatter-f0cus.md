@@ -11,7 +11,7 @@ tags:
   - focus
   - productivity
 cover:
-  image: "/images/covers/scatter-f0cus-cover.svg"
+  image: "images/covers/scatter-f0cus-cover.svg"
   alt: "Cover image"
   relative: false
 ---

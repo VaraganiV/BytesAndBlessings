@@ -12,7 +12,7 @@ tags:
   - cybersecurity
   - web
 cover:
-  image: "/images/covers/security-attacks-cover.svg"
+  image: "images/covers/security-attacks-cover.svg"
   alt: "Cover image"
   relative: false
 ---

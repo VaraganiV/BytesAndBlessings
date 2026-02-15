@@ -11,7 +11,7 @@ tags:
   - mindset
   - overthinking
 cover:
-  image: "/images/covers/creating-problems-that-werent-there-cover.svg"
+  image: "images/covers/creating-problems-that-werent-there-cover.svg"
   alt: "Cover image"
   relative: false
 ---

@@ -13,7 +13,7 @@ tags:
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/covers/varanasi-in-february-2025-cover.svg"
+  image: "images/covers/varanasi-in-february-2025-cover.svg"
   alt: "Cover image"
   relative: false
 ---

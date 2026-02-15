@@ -11,7 +11,7 @@ tags:
   - habits
   - self-improvement
 cover:
-  image: "/images/covers/habits-cover.svg"
+  image: "images/covers/habits-cover.svg"
   alt: "Cover image"
   relative: false
 ---

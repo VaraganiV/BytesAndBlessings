@@ -12,7 +12,7 @@ tags:
   - growth
   - mindset
 cover:
-  image: "/images/covers/career-sutras-cover.svg"
+  image: "images/covers/career-sutras-cover.svg"
   alt: "Cover image"
   relative: false
 ---

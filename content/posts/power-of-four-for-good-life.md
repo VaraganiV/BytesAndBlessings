@@ -12,7 +12,7 @@ tags:
   - framework
   - wellbeing
 cover:
-  image: "/images/covers/power-of-four-for-good-life-cover.svg"
+  image: "images/covers/power-of-four-for-good-life-cover.svg"
   alt: "Cover image"
   relative: false
 ---
