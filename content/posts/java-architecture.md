@@ -1,5 +1,6 @@
 ---
 title: "Java Architecture"
+description: "Understanding Java's architecture — the JVM, class loader, bytecode, garbage collection, and how Java achieves platform independence."
 date: 2016-07-22
 draft: false
 categories:

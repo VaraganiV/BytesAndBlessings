@@ -1,5 +1,6 @@
 ---
 title: "Power of Subconscious mind"
+description: "Unlock the treasure house of infinity within you. Key insights from The Power of Your Subconscious Mind on harnessing mental power."
 date: 2022-06-02
 draft: false
 categories:

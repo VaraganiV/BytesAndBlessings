@@ -1,5 +1,6 @@
 ---
 title: "Detox Your Thoughts"
+description: "A practical guide to detoxing negative thoughts, uncomfortable feelings, and mental traps to improve your total well-being."
 date: 2022-09-03
 draft: false
 categories:

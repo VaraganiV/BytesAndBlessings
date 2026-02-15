@@ -1,5 +1,6 @@
 ---
 title: "How Browsers Work"
+description: "A deep dive into how web browsers work — from parsing HTML and CSS to rendering the DOM tree, layout, and painting pixels on screen."
 date: 2016-07-09
 draft: false
 categories:

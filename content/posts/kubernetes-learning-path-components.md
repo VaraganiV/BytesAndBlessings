@@ -1,5 +1,6 @@
 ---
-title: "Kuberneties Learning Path - Components"
+title: "Kubernetes Learning Path - Components"
+description: "Understanding Kubernetes cluster components — Control Plane, Nodes, kube-apiserver, etcd, scheduler, and how they work together."
 date: 2020-09-05
 draft: false
 categories:
@@ -19,13 +20,7 @@ your application still accessible from the other nodes.
 
 <figure>
 <a href="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg" target="_blank">
-
-<figure>
-<a href="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg" target="_blank">
 <img src="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg" alt="Components of Kubernetes" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
 </a>
 </figure>
 ](https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg)

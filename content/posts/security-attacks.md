@@ -1,5 +1,6 @@
 ---
 title: "Security | Attacks"
+description: "Understanding common security attacks — DDoS, SQL Injection, XSS, CSRF, Man-in-the-Middle, and how to defend against them."
 date: 2016-07-22
 draft: false
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Career sutras .."
+description: "Feeling stuck in your career? These career sutras cover growth strategies from communication mastery to building influence at work."
 date: 2022-11-05
 draft: false
 categories:

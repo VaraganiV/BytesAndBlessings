@@ -1,5 +1,6 @@
 ---
 title: "Burning out ..."
+description: "Recognize the warning signs of burnout — from lost motivation to irritability — and learn practical steps to recover before it's too late."
 date: 2022-09-25
 draft: false
 categories:

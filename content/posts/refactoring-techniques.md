@@ -1,5 +1,6 @@
 ---
 title: "Refactoring | techniques"
+description: "Essential refactoring techniques — Extract Method, Inline Method, Replace Temp with Query, and more ways to clean up your codebase."
 date: 2016-07-22
 draft: false
 categories:

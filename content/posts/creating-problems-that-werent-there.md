@@ -1,5 +1,6 @@
 ---
 title: "Creating problems that weren't there"
+description: "Why does the human brain create problems that don't exist? Understand how overthinking manufactures stress and learn to break the cycle."
 date: 2022-06-26
 draft: false
 categories:

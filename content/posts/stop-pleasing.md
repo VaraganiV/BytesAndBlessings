@@ -1,5 +1,6 @@
 ---
 title: "Stop pleasing ...."
+description: "Why people-pleasing undermines your authenticity. True personalities don't seek external approval — they live on their own terms."
 date: 2022-07-10
 draft: false
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "OOD, Design Patterns and Anti Patterns"
+description: "A comprehensive guide to OOD — SOLID principles, Creational, Structural, and Behavioral design patterns, plus anti-patterns to avoid."
 date: 2016-07-22
 draft: false
 categories:

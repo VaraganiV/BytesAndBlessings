@@ -1,5 +1,6 @@
 ---
 title: "తర్పణం: ఒక సాధారణ పరిచయం"
+description: "తర్పణం (Tarpanam) — understanding the sacred ritual of offering water to ancestors, its spiritual significance, and how to perform it."
 date: 2025-05-18
 draft: false
 categories:

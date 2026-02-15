@@ -1,5 +1,6 @@
 ---
 title: "Yogic breathing"
+description: "Introduction to Yogic Breathing (Pranayama) — techniques, step-by-step instructions, and the physical and mental benefits of breathwork."
 date: 2022-11-13
 draft: false
 categories:

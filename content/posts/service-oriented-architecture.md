@@ -1,5 +1,6 @@
 ---
 title: "Service Oriented Architecture"
+description: "Service-Oriented Architecture (SOA) explained — principles, benefits, governance, and how loosely-coupled services meet business needs."
 date: 2016-07-20
 draft: false
 categories:

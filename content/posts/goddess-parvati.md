@@ -1,5 +1,6 @@
 ---
 title: "Goddess Parvati"
+description: "Explore the divine forms of Goddess Parvati — from gentle Uma to fierce Kali — and her significance in Hindu mythology and spirituality."
 date: 2025-03-02
 draft: false
 categories:
@@ -28,13 +29,7 @@ Parvati is depicted in various forms, embodying both gentle and fierce aspects. 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-1.png?w=692" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-1.png?w=692" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-1.png?w=692" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-1.png?w=692" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -42,13 +37,7 @@ Parvati is depicted in various forms, embodying both gentle and fierce aspects. 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-2.png?w=552" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-2.png?w=552" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-2.png?w=552" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-2.png?w=552" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -56,13 +45,7 @@ Parvati is depicted in various forms, embodying both gentle and fierce aspects. 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-3.png?w=737" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-3.png?w=737" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-3.png?w=737" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-3.png?w=737" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -70,13 +53,7 @@ Parvati is depicted in various forms, embodying both gentle and fierce aspects. 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-4.png?w=593" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-4.png?w=593" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-4.png?w=593" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-4.png?w=593" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -84,13 +61,7 @@ Parvati is depicted in various forms, embodying both gentle and fierce aspects. 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-5.png?w=726" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-5.png?w=726" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-5.png?w=726" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-5.png?w=726" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -98,13 +69,7 @@ Parvati is depicted in various forms, embodying both gentle and fierce aspects. 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-6.png?w=730" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-6.png?w=730" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-6.png?w=730" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-6.png?w=730" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -130,13 +95,7 @@ Goddess **Kamakshi** is the presiding deity of the **Kamakshi Amman Temple** in 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-8.png?w=402" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-8.png?w=402" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-8.png?w=402" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-8.png?w=402" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -148,13 +107,7 @@ Goddess **Meenakshi** is depicted with **a green complexion**, symbolizing ferti
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-9.png?w=356" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-9.png?w=356" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-9.png?w=356" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-9.png?w=356" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -166,13 +119,7 @@ Goddess **Visalakshi**, meaning "the one with wide eyes," is a form of Parvati w
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-10.png?w=422" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-10.png?w=422" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-10.png?w=422" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-10.png?w=422" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -184,13 +131,7 @@ Goddess **Akhilandeshwari**, meaning "the ruler of the universe," resides in the
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-11.png?w=340" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-11.png?w=340" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-11.png?w=340" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-11.png?w=340" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -202,13 +143,7 @@ Goddess **Mookambika** is a **golden-hued deity** with **three eyes and four arm
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-12.png?w=462" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-12.png?w=462" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-12.png?w=462" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-12.png?w=462" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -220,13 +155,7 @@ Goddess **Tamra Gauri**, worshipped in **Gokarna**, is associated with the legen
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-13.png?w=382" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-13.png?w=382" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-13.png?w=382" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-13.png?w=382" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -238,13 +167,7 @@ Goddess **Deshdevi** is depicted as **seated on a lion**, holding a **trident an
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-14.png?w=404" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-14.png?w=404" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-14.png?w=404" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-14.png?w=404" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -256,13 +179,7 @@ Goddess **Kalyaneshwari** is worshipped in **Kalyaneshwari Temple**, near Maitho
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-15.png?w=466" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-15.png?w=466" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-15.png?w=466" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-15.png?w=466" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -274,13 +191,7 @@ Goddess **Tripuresvari**, also known as **Tripura Sundari**, is depicted **as a 
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-16.png?w=476" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-16.png?w=476" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-16.png?w=476" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-16.png?w=476" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -292,13 +203,7 @@ Goddess **Nanda Devi** is depicted as a **golden-hued goddess adorned with Himal
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-17.png?w=364" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-17.png?w=364" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-17.png?w=364" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/03/image-17.png?w=364" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 

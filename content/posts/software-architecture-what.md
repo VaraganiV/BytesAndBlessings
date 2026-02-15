@@ -1,5 +1,6 @@
 ---
 title: "Software Architecture | What"
+description: "Software architecture fundamentals — defining structured solutions that balance technical requirements with quality attributes like performance and security."
 date: 2016-07-22
 draft: false
 categories:

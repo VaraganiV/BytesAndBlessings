@@ -1,5 +1,6 @@
 ---
 title: "Start living ......"
+description: "Five life principles to stop existing and start truly living — embrace mistakes, master self-talk, and let go of the past."
 date: 2022-12-23
 draft: false
 categories:

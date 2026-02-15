@@ -1,5 +1,6 @@
 ---
 title: "Expanding Columns in WPF"
+description: "How to dynamically expand DataGrid column height in WPF to handle multi-line cell content using RowDetails and custom templates."
 date: 2012-01-30
 draft: false
 categories:

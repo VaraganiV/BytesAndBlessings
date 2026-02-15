@@ -1,5 +1,6 @@
 ---
 title: "Navigating the Stars: Understanding Shasta Graha Kutami"
+description: "What is Shasta Graha Kutami? Understanding the rare six-planet alignment in Vedic astrology and its spiritual significance."
 date: 2025-03-23
 draft: false
 categories:

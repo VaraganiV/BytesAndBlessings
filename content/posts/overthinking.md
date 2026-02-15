@@ -1,5 +1,6 @@
 ---
 title: "Overthinking"
+description: "Why do we overthink and how does it harm us? Practical strategies to break the overthinking cycle and find mental clarity."
 date: 2022-06-07
 draft: false
 categories:

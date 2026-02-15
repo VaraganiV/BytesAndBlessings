@@ -1,5 +1,6 @@
 ---
 title: "Temple Trip Across Tamil Nadu"
+description: "Four days across Tamil Nadu visiting ancient temples — Meenakshi, Ramanathaswamy, Thanjavur, and more. A journey of faith and discovery."
 date: 2025-05-06
 draft: false
 categories:
@@ -141,18 +142,9 @@ Swipe through some captured memories from this trip
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/screenshot-2025-05-04-at-7.28.17u202fpm.png?w=600" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/screenshot-2025-05-04-at-7.28.17u202fpm.png?w=600" target="_blank">
 <img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/screenshot-2025-05-04-at-7.28.17u202fpm.png?w=600" alt="Trip route map across Tamil Nadu" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
-
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200558-5.jpg?w=600" target="_blank">
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200558-5.jpg?w=600" target="_blank">
@@ -160,23 +152,11 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200433-4.jpg?w=600" target="_blank">
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200433-4.jpg?w=600" target="_blank">
 <img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200433-4.jpg?w=600" alt="Temple darshan" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
-
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200515-4.jpg?w=600" target="_blank">
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_200515-4.jpg?w=600" target="_blank">
@@ -184,23 +164,11 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_202256-3.jpg?w=600" target="_blank">
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_202256-3.jpg?w=600" target="_blank">
 <img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_202256-3.jpg?w=600" alt="Evening temple visit" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
-
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_201808-3.jpg?w=600" target="_blank">
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_201808-3.jpg?w=600" target="_blank">
@@ -208,23 +176,11 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_203423-3.jpg?w=600" target="_blank">
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_203423-3.jpg?w=600" target="_blank">
 <img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_203423-3.jpg?w=600" alt="Temple prasadam" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
-
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_204511-3.jpg?w=600" target="_blank">
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_204511-3.jpg?w=600" target="_blank">
@@ -232,18 +188,9 @@ Swipe through some captured memories from this trip
 </a>
 </figure>
 
-</a>
-</figure>
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_204311-3.jpg?w=600" target="_blank">
-
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_204311-3.jpg?w=600" target="_blank">
 <img src="https://techmeshies.wordpress.com/wp-content/uploads/2025/05/img_20250427_204311-3.jpg?w=600" alt="With driver Raja at Trichy airport" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
 </a>
 </figure>
 

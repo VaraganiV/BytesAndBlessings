@@ -1,5 +1,6 @@
 ---
 title: "JUnit Testing And Best Practices"
+description: "What is unit testing and why does it matter? Learn JUnit best practices, test structure, and how to write effective automated tests."
 date: 2020-08-29
 draft: false
 categories:

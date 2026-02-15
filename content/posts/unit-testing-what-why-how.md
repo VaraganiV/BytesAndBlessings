@@ -1,5 +1,6 @@
 ---
 title: "Unit Testing | What | Why | How"
+description: "A complete guide to unit testing — what it is, why it matters, testing frameworks, best practices, and how to write tests that actually help."
 date: 2016-07-20
 draft: false
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "JavaScript"
+description: "A comprehensive JavaScript reference covering types, objects, functions, closures, prototypes, async patterns, and best practices."
 date: 2016-07-22
 draft: false
 categories:
@@ -36,13 +37,7 @@ Eval code              – Text to be executed inside the internal eval
 
 <figure>
 <a href="cid:5602b0192fdc52a0b29da94d4b603792" target="_blank">
-
-<figure>
-<a href="cid:5602b0192fdc52a0b29da94d4b603792" target="_blank">
-<img src="cid:5602b0192fdc52a0b29da94d4b603792" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="cid:5602b0192fdc52a0b29da94d4b603792" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 

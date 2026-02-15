@@ -1,5 +1,6 @@
 ---
 title: "Unfuck Yourself"
+description: "Key insights from Unf*ck Yourself — how self-talk shapes your reality, and practical strategies to break free from limiting beliefs."
 date: 2022-08-07
 draft: false
 categories:

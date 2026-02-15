@@ -1,5 +1,6 @@
 ---
 title: "Socket.IO | Real Time Applications"
+description: "Building real-time web applications with Socket.IO — WebSockets, event-driven architecture, and practical implementation patterns."
 date: 2016-08-22
 draft: false
 categories:

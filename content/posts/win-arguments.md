@@ -1,5 +1,6 @@
 ---
 title: "Win Arguments"
+description: "Five psychological tricks to win any argument — from strategic confusion to the power of silence. Master the art of persuasion."
 date: 2022-12-23
 draft: false
 categories:

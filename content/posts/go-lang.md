@@ -1,5 +1,6 @@
 ---
 title: "GO Lang"
+description: "An introduction to Go (Golang) — Google's statically typed compiled language known for simplicity, concurrency support, and fast performance."
 date: 2023-05-19
 draft: false
 categories:

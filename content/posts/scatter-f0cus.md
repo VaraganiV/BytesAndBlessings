@@ -1,5 +1,6 @@
 ---
 title: "Scatter F0cus"
+description: "The surprising benefits of a wandering mind — how scatter focus boosts creativity, problem-solving, and connects disparate ideas."
 date: 2022-08-30
 draft: false
 categories:

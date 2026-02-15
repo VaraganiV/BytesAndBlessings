@@ -1,5 +1,6 @@
 ---
 title: "MAHALAYA PAKSHAM"
+description: "Understanding Mahalaya Paksham — the sacred fortnight dedicated to honoring ancestors through Tarpanam rituals in Hindu tradition."
 date: 2022-09-10
 draft: false
 categories:

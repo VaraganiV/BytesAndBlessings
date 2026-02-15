@@ -1,5 +1,6 @@
 ---
 title: "Power of Four - For Good Life"
+description: "The Power of Four framework for living a fulfilling life — balancing happiness, purpose, relationships, and personal growth."
 date: 2022-06-01
 draft: false
 categories:

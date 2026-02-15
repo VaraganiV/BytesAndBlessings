@@ -1,5 +1,6 @@
 ---
 title: "Hyper F0cus"
+description: "Our attention is overwhelmed like never before. Learn the science of hyperfocus and practical techniques to reclaim deep concentration."
 date: 2022-08-21
 draft: false
 categories:

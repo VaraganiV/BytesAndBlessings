@@ -1,5 +1,6 @@
 ---
-title: "Kuberneties Learning Path – ReplicaSet"
+title: "Kubernetes Learning Path – ReplicaSet"
+description: "Kubernetes ReplicaSets maintain a stable set of replica Pods. Learn how they ensure availability and handle pod failures automatically."
 date: 2020-09-12
 draft: false
 categories:

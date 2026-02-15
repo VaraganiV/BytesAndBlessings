@@ -1,5 +1,6 @@
 ---
 title: "Bad Code | Smells"
+description: "Identify the five categories of bad code smells — Bloaters, Object-Orientation Abusers, Change Preventers, Dispensables, and Couplers."
 date: 2016-07-22
 draft: false
 categories:

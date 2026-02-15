@@ -1,5 +1,6 @@
 ---
 title: "Purpose And Happiness"
+description: "What is happiness and how do we find purpose? Exploring the subjective nature of positive emotions and what truly fulfills us."
 date: 2022-09-17
 draft: false
 categories:

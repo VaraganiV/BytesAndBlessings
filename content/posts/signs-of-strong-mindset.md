@@ -1,5 +1,6 @@
 ---
 title: " Signs of Strong Mindset"
+description: "Six signs of a strong mindset — moving on, embracing change, staying happy, being kind, taking calculated risks, and celebrating others."
 date: 2022-10-04
 draft: false
 categories:

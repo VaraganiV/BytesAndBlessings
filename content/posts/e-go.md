@@ -1,5 +1,6 @@
 ---
 title: "E-GO"
+description: "The ego is your worst enemy. Learn how ego blocks growth, damages relationships, and prevents you from reaching your true potential."
 date: 2022-06-17
 draft: false
 categories:

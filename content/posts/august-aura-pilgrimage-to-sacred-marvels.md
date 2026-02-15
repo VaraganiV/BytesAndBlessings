@@ -1,5 +1,6 @@
 ---
 title: "August Aura Pilgrimage to Sacred Marvels"
+description: "A sacred pilgrimage to Shirdi, BhimaShankar, Grishneshwar, and Triambakeshwar — exploring Maharashtra's Jyotirlingas and spiritual heritage."
 date: 2023-08-14
 draft: false
 categories:
@@ -33,157 +34,79 @@ Our first day was a medley of spiritual encounters, historic sites, and shared m
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/1-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/1-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/1-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/1-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/2-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/2-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/2-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/2-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/3-2.jpeg?w=568" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/3-2.jpeg?w=568" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/3-2.jpeg?w=568" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/3-2.jpeg?w=568" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/4-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/4-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/4-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/4-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/5-3.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/5-3.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/5-3.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/5-3.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/7-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/7-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/7-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/7-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/8-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/8-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/8-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/8-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/9-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/9-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/9-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/9-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/10-2.jpeg?w=375" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/10-2.jpeg?w=375" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/10-2.jpeg?w=375" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/10-2.jpeg?w=375" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/11-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/11-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/11-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/11-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/12-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/12-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/12-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/12-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/13-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/13-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/13-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/13-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/15-2.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/15-2.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/15-2.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/15-2.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -208,73 +131,37 @@ Swipe down for a peek into the divine moments captured by our lens.
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806070724.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806070724.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806070724.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806070724.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071109.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071109.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071109.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071109.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071724.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071724.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071724.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806071724.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806104309.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806104309.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806104309.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806104309.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806110455.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806110455.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806110455.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806110455.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806101420.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806101420.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806101420.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230806101420.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -294,229 +181,115 @@ With time on our hands, we delved into Paithani Handloom sarees, indulging in so
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807100312.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807100312.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807100312.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807100312.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807131631.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807131631.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807131631.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807131631.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144149.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144149.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144149.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144149.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144354.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144354.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144354.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144354.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144640.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144640.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144640.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144640.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144419.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144419.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144419.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144419.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144730.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144730.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144730.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144730.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162424.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162424.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162424.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162424.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144508.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144508.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144508.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807144508.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162412.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162412.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162412.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162412.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162016.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162016.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162016.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807162016.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807161825.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807161825.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807161825.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807161825.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154940.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154940.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154940.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154940.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154951.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154951.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154951.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154951.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154846.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154846.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154846.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807154846.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807152436.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807152436.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807152436.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807152436.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145547.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145547.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145547.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145547.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145603.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145603.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145603.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807145603.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807184318.jpg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807184318.jpg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807184318.jpg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/img20230807184318.jpg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 
@@ -528,12 +301,6 @@ Signing off ....
 
 <figure>
 <a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/my-pic.jpeg?w=750" target="_blank">
-
-<figure>
-<a href="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/my-pic.jpeg?w=750" target="_blank">
-<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/my-pic.jpeg?w=750" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://techmeshies.wordpress.com/wp-content/uploads/2023/08/my-pic.jpeg?w=750" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>

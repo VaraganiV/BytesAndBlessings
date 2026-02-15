@@ -1,5 +1,6 @@
 ---
 title: "Habits"
+description: "Five energizing habits versus five draining ones. Master self-discipline, invest in education, and cut the habits holding you back."
 date: 2022-07-31
 draft: false
 categories:
@@ -10,13 +11,7 @@ TocOpen: false
 
 <figure>
 <a href="https://lh4.googleusercontent.com/W7Vci2Z9j2cgimNzQuXDYw62qeD1HXT5sUyFiH7OCJT4-_KKhrAf7AmKWp4E4VjxqHcBkTi_VhLG2liUQs-jYlhsQe0XdTQFd-5T9j8Ip4tBGyNXOlntPi6HkdZjAXVTgHoi185GJLw7NQ-sSP7o" target="_blank">
-
-<figure>
-<a href="https://lh4.googleusercontent.com/W7Vci2Z9j2cgimNzQuXDYw62qeD1HXT5sUyFiH7OCJT4-_KKhrAf7AmKWp4E4VjxqHcBkTi_VhLG2liUQs-jYlhsQe0XdTQFd-5T9j8Ip4tBGyNXOlntPi6HkdZjAXVTgHoi185GJLw7NQ-sSP7o" target="_blank">
-<img src="https://lh4.googleusercontent.com/W7Vci2Z9j2cgimNzQuXDYw62qeD1HXT5sUyFiH7OCJT4-_KKhrAf7AmKWp4E4VjxqHcBkTi_VhLG2liUQs-jYlhsQe0XdTQFd-5T9j8Ip4tBGyNXOlntPi6HkdZjAXVTgHoi185GJLw7NQ-sSP7o" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://lh4.googleusercontent.com/W7Vci2Z9j2cgimNzQuXDYw62qeD1HXT5sUyFiH7OCJT4-_KKhrAf7AmKWp4E4VjxqHcBkTi_VhLG2liUQs-jYlhsQe0XdTQFd-5T9j8Ip4tBGyNXOlntPi6HkdZjAXVTgHoi185GJLw7NQ-sSP7o" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 

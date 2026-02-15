@@ -1,5 +1,6 @@
 ---
 title: "A Soulful Trip to Vijayawada, Annavaram & Dwaraka Tirumala"
+description: "A spiritual road trip through Andhra Pradesh visiting Vijayawada, Annavaram, and Dwaraka Tirumala — temples, prayers, and divine encounters."
 date: 2025-04-13
 draft: false
 categories:

@@ -1,5 +1,6 @@
 ---
-title: "Kuberneties Learning Path - Pods"
+title: "Kubernetes Learning Path - Pods"
+description: "What are Kubernetes Pods? The smallest deployable units — understanding pod lifecycle, multi-container pods, networking, and storage."
 date: 2020-09-05
 draft: false
 categories:

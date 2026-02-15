@@ -1,5 +1,6 @@
 ---
 title: "Faster...."
+description: "Five principles to accelerate your learning — drop the ego, set stretch goals, stay consistent, and make it fun."
 date: 2022-12-23
 draft: false
 categories:

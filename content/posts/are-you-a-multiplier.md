@@ -1,5 +1,6 @@
 ---
 title: "Are you a Multiplier ?"
+description: "Are you a Multiplier or a Diminisher? Explore the leadership traits that amplify team intelligence versus those that shut it down."
 date: 2022-08-14
 draft: false
 categories:
@@ -10,13 +11,7 @@ TocOpen: false
 
 <figure>
 <a href="https://lh6.googleusercontent.com/QY9HlsPMxIczqFcIttg0CTosnapBSORszCChEwXRYsd6fFU3lHaeCbIaHqwxcWvtrM4T-LhPyNUTf0pIIbz8sdnJlV-TdzYtHQ0CfMLSY2v5Zuo83lFSfSr-tiU3pEB7GVD5UggxpjSanxzOexacCw=w320-h206" target="_blank">
-
-<figure>
-<a href="https://lh6.googleusercontent.com/QY9HlsPMxIczqFcIttg0CTosnapBSORszCChEwXRYsd6fFU3lHaeCbIaHqwxcWvtrM4T-LhPyNUTf0pIIbz8sdnJlV-TdzYtHQ0CfMLSY2v5Zuo83lFSfSr-tiU3pEB7GVD5UggxpjSanxzOexacCw=w320-h206" target="_blank">
-<img src="https://lh6.googleusercontent.com/QY9HlsPMxIczqFcIttg0CTosnapBSORszCChEwXRYsd6fFU3lHaeCbIaHqwxcWvtrM4T-LhPyNUTf0pIIbz8sdnJlV-TdzYtHQ0CfMLSY2v5Zuo83lFSfSr-tiU3pEB7GVD5UggxpjSanxzOexacCw=w320-h206" alt="" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
-</a>
-</figure>
-
+<img src="https://lh6.googleusercontent.com/QY9HlsPMxIczqFcIttg0CTosnapBSORszCChEwXRYsd6fFU3lHaeCbIaHqwxcWvtrM4T-LhPyNUTf0pIIbz8sdnJlV-TdzYtHQ0CfMLSY2v5Zuo83lFSfSr-tiU3pEB7GVD5UggxpjSanxzOexacCw=w320-h206" alt="Blog image" loading="lazy" style="max-width:100%; width:480px; height:auto; border-radius:8px; cursor:zoom-in;" />
 </a>
 </figure>
 

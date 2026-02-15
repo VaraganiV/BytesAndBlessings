@@ -1,5 +1,6 @@
 ---
 title: "REST | Details"
+description: "A detailed guide to REST APIs — principles, HTTP methods, status codes, HATEOAS, versioning, and best practices for building web services."
 date: 2016-07-22
 draft: false
 categories:

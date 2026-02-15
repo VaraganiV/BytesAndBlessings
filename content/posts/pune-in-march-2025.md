@@ -1,5 +1,6 @@
 ---
 title: "Pune in March 2025"
+description: "Exploring Pune's temples and culture in March 2025 — from Dagdusheth Halwai Ganpati to local food trails and peaceful moments."
 date: 2025-03-16
 draft: false
 categories:

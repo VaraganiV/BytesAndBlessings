@@ -1,5 +1,6 @@
 ---
-title: "Kuberneties Learning Path – Deployments"
+title: "Kubernetes Learning Path – Deployments"
+description: "Kubernetes Deployments explained — declarative updates, rolling deployments, rollbacks, and managing application lifecycle at scale."
 date: 2020-09-18
 draft: false
 categories:

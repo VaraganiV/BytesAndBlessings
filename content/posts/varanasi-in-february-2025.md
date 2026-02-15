@@ -1,5 +1,6 @@
 ---
 title: "Varanasi in February 2025"
+description: "Visiting Varanasi during Maha Kumbh 2025 — ghats, temples, the Ganga Aarti, and the spiritual energy of India's holiest city."
 date: 2025-03-16
 draft: false
 categories:
