@@ -7,21 +7,24 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-## Hello, I'm Venkata 🙏
+## Hello, I'm Venkata Varagani
 
-Welcome to **Bytes & Blessings** — a space where silicon meets the sacred.
+Welcome to **Bytes & Blessings** — a space where technology meets tradition.
 
-By day, I write code and wrangle data. By heart, I'm a seeker — drawn to ancient temples, timeless scriptures, and the quiet wisdom that lives between the lines of the Vedas.
+I'm a technology professional passionate about building scalable systems, cloud-native architectures, and solving complex engineering problems. My technical interests span Kubernetes, containerization, CI/CD pipelines, Java, and modern software engineering practices.
 
-This blog is my attempt to bridge two worlds that I love:
+This blog is where I share what I learn and experience across two worlds:
 
-- **Bytes** — technology, software engineering, AI/ML, and the craft of building things with code
-- **Blessings** — Sanatana Dharma, temple pilgrimages, life lessons, and the pursuit of meaning
+**Bytes** — deep dives into Kubernetes, unit testing best practices, cloud infrastructure, and the ever-evolving tech landscape.
 
-Whether you're here for a Python tutorial or a temple trail story, I hope you find something that resonates.
+**Blessings** — temple pilgrimages across India, reflections on Sanatana Dharma, and the life lessons that come from stepping away from the screen.
+
+Whether you're here to debug a Kubernetes deployment or discover a hidden temple in Tamil Nadu, I hope you find something useful.
 
 ---
 
-*"Yogah karmasu kaushalam"* — Yoga is excellence in action. (Bhagavad Gita 2.50)
+### Connect
 
-Let's learn, build, and grow together.
+- **GitHub:** [VaraganiV](https://github.com/VaraganiV)
+- **LinkedIn:** [venkat21](https://www.linkedin.com/in/venkat21/)
+- **Email:** v.varagani@gmail.com
