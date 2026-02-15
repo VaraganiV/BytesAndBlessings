@@ -1,0 +1,121 @@
+baseURL: "https://bytesandblessings.com/"
+languageCode: en-us
+title: "Bytes & Blessings"
+theme: PaperMod
+pagination:
+  pagerSize: 8
+copyright: "© 2026 Bytes & Blessings · Venkata"
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableRobotsTXT: true
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+taxonomies:
+  tag: tags
+  category: categories
+  series: series
+
+params:
+  env: production
+  title: "Bytes & Blessings"
+  description: "Where technology meets tradition — exploring code, consciousness, temples & timeless wisdom."
+  author: "Venkata"
+  homeInfoParams:
+    Title: "Namaste! Welcome to Bytes & Blessings 🙏"
+    Content: >
+      A personal blog at the crossroads of **technology** and **tradition**.
+
+
+      Here you'll find stories about software engineering, temple pilgrimages,
+      Sanatana Dharma, and the life lessons woven between them.
+  socialIcons:
+    - name: github
+      url: "https://github.com/VaraganiV"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/venkat21/"
+    - name: email
+      url: "mailto:v.varagani@gmail.com"
+    - name: rss
+      url: "/index.xml"
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  assets:
+    favicon: "/favicon.ico"
+    disableHLJS: true
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    noClasses: false
+    style: dracula
+
+menu:
+  main:
+    - identifier: tech
+      name: "🖥️ Tech"
+      url: /categories/tech/
+      weight: 10
+    - identifier: sanatana-dharma
+      name: "🙏 Sanatana Dharma"
+      url: /categories/sanatana-dharma/
+      weight: 20
+    - identifier: temple-trails
+      name: "🛕 Temple Trails"
+      url: /categories/temple-trails/
+      weight: 30
+    - identifier: life-learnings
+      name: "📖 Life Learnings"
+      url: /categories/life-learnings/
+      weight: 40
+    - identifier: search
+      name: "🔍 Search"
+      url: /search/
+      weight: 50
+    - identifier: about
+      name: "About"
+      url: /about/
+      weight: 60
