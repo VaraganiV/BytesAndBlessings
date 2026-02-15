@@ -12,6 +12,8 @@ TocOpen: false
 </a>
 </figure>
 
+## Winning Arguments
+
 Some tricks to Win Arguments
 
 * **Confuse** People: One of the best strategies.

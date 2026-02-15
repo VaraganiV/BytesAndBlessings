@@ -9,7 +9,7 @@ ShowToc: true
 TocOpen: false
 ---
 
-Why Kubernetes
+## Why Kubernetes
 
 Kubernetes is an open-source system for automating deployment, scaling, and management of containerised applications. It was originally designed by Google and is currently maintained by the Cloud Native Computing Foundation.
 
@@ -20,6 +20,8 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 </figure>
 
 [Source](https://trends.google.com/trends/explore?date=today%205-y&q=Kubernetes#TIMESERIES)
+
+## Learning Path Overview
 
 This learning path will focus on preparing for Certified Kubernetes Application Developer (CKAD) exam. We will be exploring the knowledge on:
 

@@ -12,6 +12,8 @@ TocOpen: false
 </a>
 </figure>
 
+## Learning Principles
+
 1. Don't let your **EGO** get in the way of your learning.
 
 2. Set goals, stretch **GOALS.....** which stretch your abilities but are achievable

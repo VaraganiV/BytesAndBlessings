@@ -13,6 +13,8 @@ WPF
 Expanding the column height at Run
 Time
 
+## The Problem
+
 We were supposed to handle a case
 where the one of the columns in the data grid can contain multiple lines of
 data, and it should be only allowed when the use enters that particular cell.
@@ -24,6 +26,8 @@ in edit mode.
 
 </a>
 </figure>
+
+## The Solution
 
 How did we achieve this
 

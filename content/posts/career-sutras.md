@@ -16,6 +16,8 @@ Do you feel, you’re struggling to progress in your career? Especially when you
 
 Do you watch others advance, while you stay in the same position? On the other hand, maybe no one has been promoted for a while. Regardless, there are things you can do. 
 
+## Career Sutras
+
 So, are some key sutras for advancing your career faster?
 
 1. Early in your career, you get paid for what you can do. Later you get paid for what you do.

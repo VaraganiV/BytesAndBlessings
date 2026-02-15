@@ -9,6 +9,8 @@ ShowToc: true
 TocOpen: false
 ---
 
+## Kubernetes Cluster Overview
+
 When we deploy Kubernetes, we get a cluster. A Kubernetes cluster consists of a set of worker machines Nodes, that run containerised applications
 
 Kubernetes is configured on one or more Nodes. Node is a machine physical or virtual on which kubernetes is installed. A Node is a worker machine and this is where containers are hosted.
@@ -27,35 +29,37 @@ your application still accessible from the other nodes.
 
 Source
 
+## Core Components
+
 Lets understand some core components of the Kubernetes
 
-API Server
+## API Server
 
 API server acts as the front-end for kubernetes. The users, management devices,  
 Command line interfaces all talk to the API server to interact with the kubernetes  
 cluster
 
-etcd
+## etcd
 
 etcd is a distributed reliable key-value store used by kubernetes to store all data used to manage the cluster.
 
-Scheduler
+## Scheduler
 
 The scheduler is responsible for distributing work or containers across multiple nodes.
 
-Controller
+## Controller
 
 The controllers are the brain behind orchestration. They are responsible for noticing and responding when nodes, containers or endpoints goes down.
 
-kubelet
+## kubelet
 
 kubelet is the agent that runs on each node in the cluster. The agent is responsible for making sure that the containers are running on the nodes as expected.
 
-kube-proxy
+## kube-proxy
 
 kube-proxy is a network proxy that runs on each node in your cluster, It takes care of networking within Kubernetes.
 
-POD
+## POD
 
 The containers are encapsulated into a Kubernetes object known as PODs. A POD is a single instance of an application. A POD is the smallest object, that you can create in kubernetes.
 

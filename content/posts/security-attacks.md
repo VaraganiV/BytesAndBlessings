@@ -9,21 +9,31 @@ ShowToc: true
 TocOpen: false
 ---
 
+## DDoS Attack
+
 **DDoS Attack – Distributed Denial Of Service Attack**
 
 DDoS, or Distributed Denial of Services, is where a server or a machine’s services are made unavailable to its users. And  when the system is offline, the hacker proceeds to either  compromise  the entire website or a specific function of a website to  their own  advantage. The usual agenda of a DDoS campaign is to temporarily interrupt or completely take down a successfully running system.  The  most common example of a DDoS attack could be sending tons of URL requests to a website or a webpage in a very small amount of time. This causes bottlenecking at the server side because the CPU just ran   out of resources. Denial-of-service  attacks are considered violations of the Internet  Architecture Board’s  Internet proper use policy, and also violate the  acceptable use  policies of virtually all Internet service providers.
+
+## Remote Code Execution
 
 **Remote Code Execution Attacks**
 
 A Remote Code Execution attack is a result of either server side or client side security weaknesses. Vulnerable  components may include libraries, remote directories on a  server that  haven’t been monitored, frameworks, and other software  modules that run  on the basis of authenticated user access. Applications  that use these  components are always under attack through things like  scripts,  malware, and small command lines that extract information.  The following vulnerable components were downloaded 22 million times in 2011: Apache CXF Authentication Bypass (http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3451) By failing to provide an identity token, attackers could invoke any web service with full permission.
 
+## Cross Site Request Forgery
+
 **Cross Site Request Forgery Attacks**
 
 *A Cross Site Request Forgery Attack happens when a user is logged  into a  session (or account) and a hacker uses this opportunity to send  them a  forged HTTP request to collect their cookie information.* In most cases, the cookie remains valid as long as the user or the attacker stays logged into the account.  This is why websites ask you  to  log out of your account when you’re finished – it will expire the   session immediately. In other cases,  once the user’s browser session is compromised, the  hacker can generate  requests to the application that will not be able to  differentiate  between a valid user and a hacker. A Cross Site Attack Examples Page on example.com <img src=”<span style=”color:  red;”>http://Example Domain/app/transferFunds?amount=1500&destinationAccount=attackersAcct#</span>”  width=”0″ height=”0″ />
 
+## Symlinking Attack
+
 **Symlinking – An Insider Attack**
 
 A symlinking attack occurs when a hacker positions the symlink in such a way that the user or application that   access the endpoint thinks *they’re accessing the right file when  they’re  really not*. If the endpoint  file is an output, the consequence of the symlink  attack is that it  could be modified instead of the file at the intended  location.  Modifications to the endpoint file could include appending,   overwriting, corrupting, or even changing permissions. In  different variations of a symlinking attack a hacker may be able  to  control the changes to a file, grant themselves advanced access,  insert  false information, expose sensitive information or corrupt or  destroy  vital system or application files.
+
+## Social Engineering
 
 **Social Engineering Attacks**
 

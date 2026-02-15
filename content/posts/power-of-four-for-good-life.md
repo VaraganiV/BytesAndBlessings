@@ -12,9 +12,13 @@ TocOpen: false
 </a>
 </figure>
 
+## Living a Good Life
+
 The best of life is the one where you are fulfilled and happy. You are the pilot of your life, and you’re the one who can decide whether to live a good life or not. The only person that is to account for whatever is happening to you is YOU.
 
 The first step to living a good life is knowing how to live a GOOD LIFE. There are many people who tried different methods on how to grow in life but have failed because of trying the wrong methods or doing things in the wrong way. Living a good life requires having a working plan and the determination to succeed - no matter what.
+
+## The P4 Framework
 
 P4 - the ultimate framework for your life  
 Everything you do in life falls under four categories. These four categories shape your life and existence. They shape the way you live, see the world, and approach a situation. The four categories are called P4. P4 represents Power, Passion, Purpose, and Production. Each of these principles represents something unique about your life.
@@ -23,6 +27,8 @@ Everything you do in life falls under four categories. These four categories sha
 * Passion - Relationships
 * Purpose - Mind
 * Production - Business
+
+## The Four Pillars
 
 Your body represents yourself your physical presence. The relationship represents how you interact with everyone around you, your family, and your friends. The mind is concerned about how you view things with positivity and embrace the values of life and your business involves your income and financial security.
 

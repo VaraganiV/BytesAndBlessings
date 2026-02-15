@@ -9,6 +9,8 @@ ShowToc: true
 TocOpen: false
 ---
 
+## Method Streamlining
+
 The refactoring techniques in this ***group streamline methods, remove code duplication, and pave the way for future improvements***.
 
 |  |  |  |
@@ -22,6 +24,8 @@ The refactoring techniques in this ***group streamline methods, remove code dupl
 | [Remove Assignments to Parameters](https://sourcemaking.com/refactoring/remove-assignments-to-parameters) | Some value is assigned to a parameter inside method's body. | Use a local variable instead of a parameter. |
 | [Replace Method with Method Object](https://sourcemaking.com/refactoring/replace-method-with-method-object) | You have a long method in which the local variables are so intertwined that you cannot apply [Extract Method](https://sourcemaking.com/refactoring/extract-method). | Transform the method into a separate class so that the local variables become fields of the class. Then you can split the method into several methods within the same class. |
 | [Substitute Algorithm](https://sourcemaking.com/refactoring/substitute-algorithm) | You want to replace an existing algorithm with a new one? | Replace the body of the method that implements the algorithm with a new algorithm |
+
+## Moving Functionality Between Classes
 
 These refactoring techniques show **how to safely move functionality between classes, create new classes, and hide implementation details from public access.**
 

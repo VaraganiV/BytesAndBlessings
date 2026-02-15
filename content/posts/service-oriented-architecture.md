@@ -9,6 +9,8 @@ ShowToc: true
 TocOpen: false
 ---
 
+## SOA Principles
+
 A **loosely-coupled architecture** designed to meet the business needs of the organization.
 
 **Principles:**
@@ -34,7 +36,11 @@ A **loosely-coupled architecture** designed to meet the business needs of the or
 </a>
 </figure>
 
+## Microservices
+
 ***Microservice applications are composed of small, independently versioned, and scalable customer-focused services that communicate with each other over standard protocols with well-defined interfaces.***
+
+## Business Drivers
 
 The changing business needs are:
 
@@ -44,9 +50,15 @@ The changing business needs are:
 
 These business needs are affecting *how* we build applications.
 
+## Building for the Cloud
+
 When companies talk about building for the cloud, the expectation is **growth and usage**. The issue is that growth and scale are unpredictable. We would like to be able to prototype quickly while also knowing that we are on a path to deal with future success. **This is the lean startup approach: build, measure, learn, iterate**.
 
+## Benefits of Microservices
+
 The benefits of microservices are that each one typically encapsulates simpler business functionality, and they can be **scaled up or down, tested, deployed, and managed independently**. One important benefit of a microservice approach is that teams tend to be **more driven by business scenarios than by technology**, which the tiered approach encouraged. In practice, this means that smaller teams develop a microservice based on a customer scenario, by using any technologies they choose. In other words, the organization doesn’t need to standardize tech to maintain monoliths. Further, individual teams that own services can do what makes sense for them based on team expertise or what’s most appropriate for the problem that service is trying to solve.
+
+## Challenges of Microservices
 
 The **downside of microservices comes in managing the increased number of separate entities; dealing with more complex deployments and versioning**; having more network traffic between the microservices; and the corresponding network latencies. Having lots of chatty, very granular services is a recipe for a performance nightmare.
 
@@ -58,11 +70,15 @@ Ultimately, standards are what make the microservice approach work, by agreeing 
 </a>
 </figure>
 
+## Summary
+
 To summarizes, **the microservice approach is to compose your application of many smaller services running in containers deployed across a cluster of machines. Each service is developed by a smaller team that focuses on a scenario, and each** **service is independently tested, versioned, deployed, and scaled****, so that the application as a whole can evolve**.
 
 A microservices application is decomposed into independent components called “microservices,” that work in concert to deliver the application’s overall functionality. The term “microservice” emphasizes the fact that applications should be composed of services small enough to truly reflect independent concerns such that each microservice implements a single function. Moreover, each has well-defined contracts (API contracts) – typically RESTful - for other microservices to communicate and share data with it. Microservices must also be able to version and update independently of each other. This loose coupling is what supports the rapid and reliable evolution of an application. Figure 3 shows how a monolithic application might be broken into different microservices.
 
 </a>
 </figure>
+
+## Rolling Updates and CI/CD
 
 The independent, distributed nature of microservice-based applications also enables rolling updates, where only a subset of the instances of a single microservice will update at any given time. If a problem is detected, a buggy update can be “rolled back,” or undone, before all instances update with the faulty code or configuration. If the update system is automated, integration with **Continuous Integration (CI) and Continuous Delivery (CD) pipelines allow developers to safely and frequently** evolve the application without fear of impacting availability.

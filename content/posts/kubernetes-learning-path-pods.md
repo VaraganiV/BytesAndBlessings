@@ -9,11 +9,11 @@ ShowToc: true
 TocOpen: false
 ---
 
-What are PODS
+## What Are Pods?
 
 Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. A pod can be a group of one or more containers with shared storage and network resources.
 
-POD Template
+## Pod Template
 
 Let's look at the POD template:
 
@@ -34,7 +34,7 @@ spec:
     # The pod template ends here
 ```
 
-POD Lifecycle
+## Pod Lifecycle
 
 Following is the high level summary of pod lifecycle
 
@@ -46,7 +46,7 @@ Following is the high level summary of pod lifecycle
 | **Failed** | All containers in the Pod have terminated, and at least one  container has terminated in failure. |
 | **Unknown** | For some reason the state of the Pod could not be obtained. |
 
-Container States
+## Container States
 
 What about the state of the container in side POD, Yes Kubernetes tracks the state of each container inside a Pod. Once the scheduler assigns a Pod to a Node, the kubelet starts creating containers for that Pod using a container runtime. There are three possible container states:
 
@@ -62,19 +62,19 @@ The Running status indicates that a container is executing without issues.
 
 A container in the `Terminated` state began execution and then either ran to completion or failed for some reason.
 
-Container Restart Policy
+## Container Restart Policy
 
 The spec of a Pod has a restartPolicy field with possible values Always, OnFailure, and Never. The default value is Always. The restartPolicy applies to all containers in the Pod.
 
-POD Condition
+## Pod Condition
 
 A Pod has a PodStatus, which has an array of PodConditions through which the Pod has or has not passed. Pod condition can be one of the: PodScheduled, ContainersReady, Initialized and Ready
 
-POD Readiness
+## Pod Readiness
 
 We can inject extra feedback or signals to get the pod status: Pod Readiness. To use this we need to set **readinessGates** in the spec
 
-Container Probe
+## Container Probe
 
 To probe the health of a container, Kubelet periodically calls handler implemented by the container. There are three types of Handlers
 
@@ -97,15 +97,15 @@ If you want your container to be able to take itself down for maintenance, you c
 **When to use startup probe**  
 Startup probes are useful for Pods that have containers that take a long time to come into service. Rather than set a long liveness interval, you can configure a separate configuration for probing the container as it starts up, allowing a time longer than the liveness interval would allow.
 
-Termination of Pods
+## Termination of Pods
 
 The container runtime sends a TERM signal to the main process in each container. Once the grace period has expired, the KILL signal is sent to any remaining processes, and the Pod is then deleted from the API Server. If the kubelet or the container runtime's management service is restarted while waiting for processes to terminate, the cluster retries from the start including the full original grace period.
 
-Forced Pod termination
+## Forced Pod Termination
 
 When a force deletion is performed, the API server does not wait for confirmation from the kubelet that the Pod has been terminated on the node it was running on. It removes the Pod in the API immediately so a new Pod can be created with the same name. On the node, Pods that are set to terminate immediately will still be given a small grace period before being force killed.
 
-Garbage collection of failed Pods
+## Garbage Collection of Failed Pods
 
 The control plane cleans up terminated Pods, when the number of Pods exceeds the configured threshold. This avoids a resource leak as Pods are created and terminated over time.
 

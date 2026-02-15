@@ -12,6 +12,8 @@ TocOpen: false
 </a>
 </figure>
 
+## Signs of Burnout
+
 Are you burning out...
 
 * Feel Discomfort from everything
@@ -24,6 +26,8 @@ Are you burning out...
 + Losing interest and motivation
 + Feeling detached
 + Neglecting yourself
+
+## Recovery Steps
 
 Try .....
 

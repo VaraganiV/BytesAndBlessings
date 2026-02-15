@@ -9,6 +9,8 @@ ShowToc: true
 TocOpen: false
 ---
 
+## Bloaters
+
 **Bloaters are code**, methods and classes that have increased to such gargantuan proportions that they are hard to work with.
 
 * Long Method: A method contains too many lines of code. Generally, any method longer than ten lines should make you start asking questions.
@@ -16,6 +18,8 @@ TocOpen: false
 * Primitive Obsessions: Using primitives instead of small tasks like String Names as fields in Arrays
 * Long Parameter list: More than 3 or 4 parameters to a function
 * Data clumps: Different parts of the code contain identical group of variables [parameters for connecting to DB]
+
+## Object-Oriented Abusers
 
 **Object oriented Abusers**: All these smells are incomplete or incorrect application of object-oriented programming principles.
 
@@ -25,11 +29,15 @@ TocOpen: false
 
 * Alternative classes with different behaviors: Two classes perform identical functions but have different method names.
 
+## Change Preventers
+
 **Change Preventers**: These smells mean that if you need to change something in one place in your code, you have to make many changes in other places too. Program development becomes much more complicated and expensive as a result.
 
 * Divergent Change: Often these divergent modifications are due to poor program structure or "copypasta programming”. Split up the behavior of the class via [Extract Class](https://sourcemaking.com/refactoring/extract-class)
 * Shotgun Surgery:Making any modifications requires that you make many small changes to many different classes. A single responsibility has been split up among a large number of classes.
 * Parallel Inheritance Hierarchies: Whenever you create a subclass for a class, you find yourself needing to create a subclass for another class.
+
+## Dispensables
 
 **A dispensable** is something pointless and unneeded whose absence would make the code cleaner, more efficient and easier to understand.
 
@@ -40,6 +48,8 @@ TocOpen: false
 * Dead Code: A variable, parameter, field, method or class is no longer used (usually because it is obsolete)
 * Speculative Generality: These are unused class, methods fields or parameters.
 
+## Couplers
+
 **Couplers**: All the smells in this group contribute to excessive coupling between classes or show what happens if coupling is replaced by excessive delegation.
 
 * Feature Envoy: A method accesses the data of another object more than its own data.
@@ -48,5 +58,7 @@ TocOpen: false
   One class uses the internal fields and methods of another class.
 * Message Chains: a->b->c->D
 * Middle main: if a class performs only task of delegation
+
+## Incomplete Library
 
 **Incomplete Library**: Sooner or later, [libraries](https://en.wikipedia.org/wiki/Library_(computing)) stop meeting user needs. The only solution to the problem – changing the library – is often impossible since the library is read-only.

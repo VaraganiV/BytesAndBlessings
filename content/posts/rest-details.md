@@ -9,19 +9,21 @@ ShowToc: true
 TocOpen: false
 ---
 
+## REST Principles
+
 While REST stands for Representational State Transfer, which is an architectural style for networked hypermedia applications, it is primarily used to build Web services that are lightweight, maintainable, and scalable. A service based on REST is called a RESTful service. REST is not dependent on any protocol, but almost every RESTful service uses HTTP as its underlying protocol.
 
-**Representations**
+## Representations
 
 A resource can consist of other resources. While designing a system, the first thing to do is identify the resources and determine how they are related to each other.
 
 This is similar to the first step of designing a database: Identify entities and relations.
 
-**Messages**
+## Messages
 
 The client and service talk to each other via messages. Clients send a request to the server, and the server replies with a response.
 
-**HTTP Request**
+## HTTP Request
 
 An HTTP request has the format shown in Figure 1:
 
@@ -37,7 +39,7 @@ An HTTP request has the format shown in Figure 1:
 </a>
 </figure>
 
-**Listing Four: A GET request.**
+### GET Request Example
 
 `GET http://www.w3.org/Protocols/rfc2616/rfc2616.html HTTP/1.1`
 
@@ -51,7 +53,7 @@ An HTTP request has the format shown in Figure 1:
 
 `Accept-Language: en-US,en;q=0.8,hi;q=0.6`
 
-**HTTP Response**
+## HTTP Response
 
 <figure>
 <a href="cid:d19bd3f5cb5b6b022e96cc72d29034c0 "REST"" target="_blank">
@@ -65,7 +67,7 @@ An HTTP request has the format shown in Figure 1:
 </a>
 </figure>
 
-**HTTP response format.**
+### Response Format
 
 The server returns `<response code>`, which contains the status of the request. This response code is generally the [3-digit HTTP status code](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
 

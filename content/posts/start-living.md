@@ -12,6 +12,8 @@ TocOpen: false
 </a>
 </figure>
 
+## Living Fully
+
 Life becomes **peaceful** when we start **taking** actionand start **living** the life that we want:
 
 * Mistakes are not a problem, but not taking the opportunity to **learn** from them is .....

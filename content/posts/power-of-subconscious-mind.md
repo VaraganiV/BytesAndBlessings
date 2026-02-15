@@ -12,6 +12,8 @@ TocOpen: false
 </a>
 </figure>
 
+## The Hidden Treasure Within
+
 If you open your mental eyes and see the treasure house of infinity within you, you will find infinite wealth all
 around us. Within you lies a gold mine, from which you may extract whatever you require to live a magnificent,
 cheerful, and abundant life
@@ -23,6 +25,8 @@ dread and uncertainty. When opportunities come, they are concerned that they may
 criticism from others. These people will not do well in life.
 
 Discover the ultimate secret of the centuries as a magnetic man.
+
+## Conscious vs Subconscious Mind
 
 Our minds have two distinct personalities. These functions are distinguished as the objective and subjective mind,
 the conscious and subconscious mind, and the waking and sleeping mind. Your conscious mind is the captain and
