@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - mindset
+  - mental-strength
+cover:
+  image: "/images/covers/signs-of-strong-mindset-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## 

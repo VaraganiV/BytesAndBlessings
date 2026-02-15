@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - happiness
+  - purpose
+  - philosophy
+cover:
+  image: "/images/covers/purpose-and-happiness-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

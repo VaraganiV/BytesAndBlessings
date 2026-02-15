@@ -12,6 +12,10 @@ tags:
   - varanasi
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/covers/varanasi-in-february-2025-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 Ghats, Temples & Maha Kumbh Moments

@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - web
+  - browsers
+  - fundamentals
+cover:
+  image: "/images/covers/how-browsers-work-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 There are five major browsers used on desktop: Chrome, Internet Explorer, Firefox, Safari and Opera. On mobile the main browsers are Android Browser, iPhone, Opera Mini and Opera Mobile. All them expect Opera are based on **WebKit**.  

@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - habits
+  - self-improvement
+cover:
+  image: "/images/covers/habits-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 <figure>

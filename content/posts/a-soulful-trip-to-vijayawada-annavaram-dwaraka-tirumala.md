@@ -12,6 +12,10 @@ tags:
   - temples
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/covers/a-soulful-trip-to-vijayawada-annavaram-dwaraka-tirumala-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 This was a short yet deeply fulfilling road trip through some of Andhra Pradesh’s most spiritual places—**Vijayawada**, **Annavaram**, and **Dwaraka Tirumala**. From early morning poojas to peaceful darshans, tasty roadside snacks to long drives, every moment was memorable. Traveling with Phani added joy to the journey, and visiting temples after years made it all the more special.

@@ -7,6 +7,14 @@ categories:
   - sanatana-dharma
 ShowToc: true
 TocOpen: false
+tags:
+  - hinduism
+  - rituals
+  - tarpanam
+cover:
+  image: "/images/covers/tarpanam-introduction-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 తర్పణం అంటే "తృప్తి పరచడం" అనే అర్థం.  

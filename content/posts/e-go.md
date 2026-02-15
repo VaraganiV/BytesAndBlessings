@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - mindset
+  - ego
+  - self-awareness
+cover:
+  image: "/images/covers/e-go-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

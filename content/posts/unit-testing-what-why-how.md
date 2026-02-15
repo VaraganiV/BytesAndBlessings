@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - testing
+  - unit-testing
+  - best-practices
+cover:
+  image: "/images/covers/unit-testing-what-why-how-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## What is Unit Testing?

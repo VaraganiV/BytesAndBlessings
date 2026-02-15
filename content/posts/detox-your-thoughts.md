@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - mindset
+  - mental-health
+  - wellbeing
+cover:
+  image: "/images/covers/detox-your-thoughts-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

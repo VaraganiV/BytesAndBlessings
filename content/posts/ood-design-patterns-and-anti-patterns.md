@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - design-patterns
+  - oop
+  - software-design
+cover:
+  image: "/images/covers/ood-design-patterns-and-anti-patterns-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 ## Design Patterns Overview
 

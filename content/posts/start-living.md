@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - life-lessons
+  - mindset
+cover:
+  image: "/images/covers/start-living-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

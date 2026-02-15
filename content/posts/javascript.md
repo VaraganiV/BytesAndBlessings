@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - javascript
+  - web
+  - programming
+cover:
+  image: "/images/covers/javascript-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## Why JavaScript?

@@ -7,6 +7,14 @@ categories:
   - temple-trails
 ShowToc: true
 TocOpen: false
+tags:
+  - pilgrimage
+  - temples
+  - travel
+cover:
+  image: "/images/covers/august-aura-pilgrimage-to-sacred-marvels-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 Embracing Shirdi, BhimaShankar, Grishneshwar, and Triambakeshwar

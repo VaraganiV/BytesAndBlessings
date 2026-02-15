@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - mindset
+  - overthinking
+cover:
+  image: "/images/covers/creating-problems-that-werent-there-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

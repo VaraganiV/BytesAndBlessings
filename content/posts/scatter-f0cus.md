@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - focus
+  - productivity
+cover:
+  image: "/images/covers/scatter-f0cus-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 Up until now, we've focused mainly on the negative effects of a wandering mind. However, this mind-wandering mode - when we scatter our attention and focus - can also be immensely powerful.

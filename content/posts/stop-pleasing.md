@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - boundaries
+  - self-care
+  - mindset
+cover:
+  image: "/images/covers/stop-pleasing-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

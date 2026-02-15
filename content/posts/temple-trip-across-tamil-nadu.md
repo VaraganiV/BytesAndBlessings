@@ -13,6 +13,10 @@ tags:
   - travel
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/covers/temple-trip-across-tamil-nadu-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 # Temple Trip Across Tamil Nadu

@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - kubernetes
+  - devops
+  - deployments
+cover:
+  image: "/images/covers/kubernetes-learning-path-deployments-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## What Is a Deployment?

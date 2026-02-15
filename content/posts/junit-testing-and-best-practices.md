@@ -10,6 +10,10 @@ tags:
   - unittesting
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/covers/junit-testing-and-best-practices-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 A “unit” is a method or function. **Unit test** is a piece of a code (usually a method) that invokes another piece of code and **checks the correctness of some assumptions afterward**.  If the assumptions turn out to be wrong, the unit test has failed.

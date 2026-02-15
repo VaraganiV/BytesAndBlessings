@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - burnout
+  - wellbeing
+  - mindset
+cover:
+  image: "/images/covers/burning-out-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

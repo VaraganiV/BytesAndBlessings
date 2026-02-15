@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - focus
+  - productivity
+  - mindset
+cover:
+  image: "/images/covers/hyper-f0cus-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

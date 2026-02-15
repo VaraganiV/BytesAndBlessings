@@ -13,6 +13,10 @@ tags:
   - travel
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/covers/goddess-parvati-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 **The Divine Mother in Her Many Forms**

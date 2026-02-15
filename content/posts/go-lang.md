@@ -7,6 +7,13 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - golang
+  - programming-languages
+cover:
+  image: "/images/covers/go-lang-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 Go (Golang) is a statically typed and compiled programming language developed by Google. It emphasizes simplicity and readability with a minimalistic syntax. Go features automatic memory management through its built-in garbage collector, reducing the need for manual memory handling.

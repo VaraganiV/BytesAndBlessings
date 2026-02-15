@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - hinduism
+  - rituals
+  - ancestors
+cover:
+  image: "/images/covers/mahalaya-paksham-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

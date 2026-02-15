@@ -65,7 +65,7 @@ params:
   cover:
     hidden: false
     hiddenInList: false
-    hiddenInSingle: false
+    hiddenInSingle: true
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -96,30 +96,34 @@ markup:
 menu:
   main:
     - identifier: tech
-      name: "🖥️ Tech"
+      name: "Tech"
       url: /categories/tech/
       weight: 10
     - identifier: sanatana-dharma
-      name: "🙏 Sanatana Dharma"
+      name: "Awakened"
       url: /categories/sanatana-dharma/
       weight: 20
     - identifier: temple-trails
-      name: "🛕 Temple Trails"
+      name: "Temple Trails"
       url: /categories/temple-trails/
       weight: 30
-    - identifier: life-learnings
-      name: "📖 Life Learnings"
-      url: /categories/life-learnings/
-      weight: 40
-    - identifier: shorts
-      name: "💡 Shorts"
+    - identifier: sparks
+      name: "Sparks"
       url: /categories/shorts/
       weight: 45
+    - identifier: tags
+      name: "Tags"
+      url: /tags/
+      weight: 50
+    - identifier: tags
+      name: "Tags"
+      url: /tags/
+      weight: 50
     - identifier: search
-      name: "🔍 Search"
+      name: "Search"
       url: /search/
       weight: 50
     - identifier: about
       name: "About"
       url: /about/
-      weight: 60
+      weight: 70

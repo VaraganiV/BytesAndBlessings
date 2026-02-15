@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - mindset
+  - subconscious
+  - psychology
+cover:
+  image: "/images/covers/power-of-subconscious-mind-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

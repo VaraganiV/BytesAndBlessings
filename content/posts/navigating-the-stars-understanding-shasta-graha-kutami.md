@@ -13,6 +13,10 @@ tags:
   - zodiac
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/covers/navigating-the-stars-understanding-shasta-graha-kutami-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 #### **Understanding Shasta Graha Kutami on** **March 29, 2025**

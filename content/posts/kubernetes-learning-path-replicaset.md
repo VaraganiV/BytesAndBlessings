@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - kubernetes
+  - devops
+  - replicaset
+cover:
+  image: "/images/covers/kubernetes-learning-path-replicaset-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## What Is a ReplicaSet?

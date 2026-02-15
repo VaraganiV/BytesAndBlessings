@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - security
+  - cybersecurity
+  - web
+cover:
+  image: "/images/covers/security-attacks-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## DDoS Attack

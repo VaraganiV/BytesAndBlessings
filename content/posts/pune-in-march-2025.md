@@ -7,6 +7,14 @@ categories:
   - temple-trails
 ShowToc: true
 TocOpen: false
+tags:
+  - pilgrimage
+  - temples
+  - travel
+cover:
+  image: "/images/covers/pune-in-march-2025-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 Temples, Travel & Everything In Between

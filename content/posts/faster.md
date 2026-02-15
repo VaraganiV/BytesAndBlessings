@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - learning
+  - productivity
+cover:
+  image: "/images/covers/faster-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

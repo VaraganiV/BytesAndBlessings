@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - mindset
+  - overthinking
+  - mental-health
+cover:
+  image: "/images/covers/overthinking-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

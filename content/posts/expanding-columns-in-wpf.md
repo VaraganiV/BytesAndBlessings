@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - wpf
+  - dotnet
+  - ui
+cover:
+  image: "/images/covers/expanding-columns-in-wpf-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 WPF  

@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - clean-code
+  - refactoring
+  - software-design
+cover:
+  image: "/images/covers/bad-code-smells-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## Bloaters

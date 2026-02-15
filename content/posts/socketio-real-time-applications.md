@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - socketio
+  - realtime
+  - web
+cover:
+  image: "/images/covers/socketio-real-time-applications-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 The real-time web is a set of technologies and practices that enable users to receive information as soon as it is published, rather than requiring that they or their software check a source periodically for updates.  

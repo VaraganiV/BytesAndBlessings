@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - mindset
+  - self-talk
+  - motivation
+cover:
+  image: "/images/covers/unfuck-yourself-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

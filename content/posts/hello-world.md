@@ -11,6 +11,10 @@ tags:
   - personal
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/covers/hello-world-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## The Beginning

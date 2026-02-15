@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - communication
+  - mindset
+cover:
+  image: "/images/covers/win-arguments-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

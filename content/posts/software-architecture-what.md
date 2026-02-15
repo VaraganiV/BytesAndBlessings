@@ -7,6 +7,13 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - architecture
+  - software-design
+cover:
+  image: "/images/covers/software-architecture-what-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 Software application architecture is the process of defining

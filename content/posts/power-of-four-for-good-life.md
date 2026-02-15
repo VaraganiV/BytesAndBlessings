@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - life-lessons
+  - framework
+  - wellbeing
+cover:
+  image: "/images/covers/power-of-four-for-good-life-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

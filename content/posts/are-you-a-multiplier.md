@@ -7,6 +7,13 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - leadership
+  - mindset
+cover:
+  image: "/images/covers/are-you-a-multiplier-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 <figure>

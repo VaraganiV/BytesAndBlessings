@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - architecture
+  - soa
+  - microservices
+cover:
+  image: "/images/covers/service-oriented-architecture-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## SOA Principles

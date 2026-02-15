@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - career
+  - growth
+  - mindset
+cover:
+  image: "/images/covers/career-sutras-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - kubernetes
+  - devops
+  - pods
+cover:
+  image: "/images/covers/kubernetes-learning-path-pods-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## What Are Pods?

@@ -7,6 +7,14 @@ categories:
   - shorts
 ShowToc: false
 TocOpen: false
+tags:
+  - yoga
+  - breathing
+  - wellbeing
+cover:
+  image: "/images/covers/yogic-breathing-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 </a>

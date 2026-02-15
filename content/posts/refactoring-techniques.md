@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - refactoring
+  - clean-code
+  - software-design
+cover:
+  image: "/images/covers/refactoring-techniques-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 ## Method Streamlining

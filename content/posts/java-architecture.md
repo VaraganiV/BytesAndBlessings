@@ -7,6 +7,14 @@ categories:
   - tech
 ShowToc: true
 TocOpen: false
+tags:
+  - java
+  - architecture
+  - jvm
+cover:
+  image: "/images/covers/java-architecture-cover.svg"
+  alt: "Cover image"
+  relative: false
 ---
 
 **Introduction to Java's Architecture**
