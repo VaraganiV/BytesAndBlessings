@@ -51,3 +51,16 @@ h1,h2,h3,h4,h5,h6,.post-title{font-family:'Inter',-apple-system,BlinkMacSystemFo
 .top-link{background:var(--accent)!important;color:#fff!important;border-radius:50%;box-shadow:0 4px 12px rgba(196,93,41,0.3)}
 ::selection{background:rgba(196,93,41,0.2);color:var(--primary)}
 @media(max-width:768px){.post-single .post-title{font-size:1.6rem}.post-content h2{font-size:1.3rem}.entry-header h2{font-size:1.05rem}}
+
+/* Bigger, bolder homepage title */
+.home-info h1 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+@media (max-width: 768px) {
+  .home-info h1 {
+    font-size: 2rem;
+  }
+}
