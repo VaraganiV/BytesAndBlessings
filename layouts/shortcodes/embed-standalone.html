@@ -1,14 +1,16 @@
 {{- $path := .Get 0 -}}
 {{- $title := .Get 1 | default "Embedded page" -}}
+{{- $url := $path | absURL -}}
 <div class="standalone-html-embed" style="width:100%;margin:2rem 0;">
+  <p style="margin:0 0 0.75rem;font-size:0.95rem;opacity:0.95;">
+    <a href="{{ $url | safeURL }}" target="_blank" rel="noopener noreferrer" style="font-weight:600;">Open this page in a full tab</a>
+    <span style="opacity:0.75"> — if the area below is blank, your browser or network may be blocking the embedded view; the link is the same full layout.</span>
+  </p>
   <iframe
-    src="{{ $path | relURL }}"
+    src="{{ $url | safeURL }}"
     title="{{ $title }}"
     style="width:100%;height:85vh;min-height:480px;border:1px solid rgba(0,0,0,0.12);border-radius:8px;background:#0d0a06;"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
   ></iframe>
-  <p style="margin-top:0.75rem;font-size:0.9rem;opacity:0.9;">
-    <a href="{{ $path | relURL }}" target="_blank" rel="noopener noreferrer">Open full screen in a new tab</a>
-  </p>
 </div>
