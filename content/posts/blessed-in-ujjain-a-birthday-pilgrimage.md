@@ -48,6 +48,12 @@ We returned to Indore by noon, rested, and then headed out for an evening visit 
 
 *And yes — Phani spotted a "Louis Vuitton" T-shirt at a roadside stall and bought it for ₹900. Designer fashion, Indore style.*
 
+### Beyond the diary — Omkareshwara
+
+The standalone long-form layout below is the same HTML version I built for this leg of the trip; scroll inside the frame or open full screen to keep the original typography and pacing.
+
+{{< embed-standalone "html/definitive/omkareshwara_definitive_blog.html" "Omkareshwara — The Island That Is a Prayer" >}}
+
 ---
 
 ## Day 3 — A Lazy, Delicious Day in Indore
@@ -110,6 +116,12 @@ The final day began the right way: Electral Water (pilgrim's best friend) and on
 *We forgot Bada Ganapati on the way out. He probably understood — we'd given everything we had to Ujjain. Next time, Bappa.*
 
 Checked out at 2:00 PM. One last stop: Samosas and Kachori for the road. Boarded our flight back to Hyderabad at 6:00 PM, carrying something that doesn't fit in any bag.
+
+### Beyond the diary — Ujjain
+
+Same idea for the sacred city: full HTML layout, unchanged from the standalone piece.
+
+{{< embed-standalone "html/definitive/ujjain_definitive_blog.html" "Ujjain — The City Where Time Breathes" >}}
 
 ---
 
